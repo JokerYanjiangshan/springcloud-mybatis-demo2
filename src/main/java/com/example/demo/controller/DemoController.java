@@ -12,7 +12,8 @@ import java.util.List;
 
 /**
  * Created by lorne on 2017/6/26.
- * 我是第二个
+ * 我是第二个mybatis
+ *
  */
 @RestController
 @RequestMapping("/demo")
